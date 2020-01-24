@@ -2,4 +2,3 @@
 *.pyc
 .~gitpod.io
 _pycache_/
-travis.yml
